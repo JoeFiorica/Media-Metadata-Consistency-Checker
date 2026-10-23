@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+# Local-only samples; never include in commits or distributions.
+.sample-data/
